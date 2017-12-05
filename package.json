@@ -1,0 +1,11 @@
+{
+  "name": "socket-chat",
+  "version": "0.0.1",
+  "description": "Socket.io app",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.0",
+    "moment": "^2.19.3",
+    "socket.io": "^2.0.4"
+  }
+}
